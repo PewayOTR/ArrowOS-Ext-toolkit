@@ -1,0 +1,9 @@
+*.log
+*.zip
+*.img
+*.img.gz
+*.bak
+*.orig
+.env
+*.pem
+*.pk8
